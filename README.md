@@ -1,0 +1,2 @@
+# FAU_Mathematics_of_learning_and_pattern_recognition_semester1
+Basic machine learning algorithm implementation and their applications.
