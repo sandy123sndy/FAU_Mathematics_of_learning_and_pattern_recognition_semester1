@@ -1,2 +1,2 @@
-# FAU_Mathematics_of_learning_and_pattern_recognition_semester1
-Basic machine learning algorithm implementation and their applications.
+# Mathematicsoflearning and pattern recognition at FAU (Semester 1)
+This repository contains the basic machine learning algorithm implementation and their basic applications.
